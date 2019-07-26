@@ -1,0 +1,23 @@
+{
+  "name": "audiolet",
+  "version": "1.0.0",
+  "description": "Audiolet\r ========\r Audiolet is a JavaScript library for real-time audio synthesis and composition from within the browser.  It uses graph-based routing and pattern-based scheduling to make complex audio simple to program, and easy to understand.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanibarz/Audiolet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanibarz/Audiolet/issues"
+  },
+  "homepage": "https://github.com/jeanibarz/Audiolet#readme"
+}
